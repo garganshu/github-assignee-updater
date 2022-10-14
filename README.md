@@ -36,7 +36,7 @@ update-assignees: username
         
  Before |  After
 -------- | ---
-![caseBefore1](art/ready_for_review_no_assignee.png) | ![caseAfter1](art/ready_for_review_assignee.png)
+![Imgur1](https://i.imgur.com/dzbgQql.png) | ![Imgur2](https://i.imgur.com/Qp1BBLM.png)
 
 2. Clear Assignees from Issues
 
@@ -47,7 +47,7 @@ clear-assignees: true
         
  Before |  After
 -------- | ---
-![caseBefore2](art/fixed_label_assignee.png) | ![caseAfter2](art/fixed_label_no_assignee.png)
+![Imgur3](https://i.imgur.com/sAfvOWi.png) | ![Imgur](https://i.imgur.com/ntfhwb0.png)
 
 
 Inputs
