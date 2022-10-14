@@ -18,7 +18,7 @@ Updating assignees made easy in your workflow using Github Assignee Updater :whi
 Why is this plugin in action? :gem:
 ----
 
-* Improves the developer productivity to auto update labels :label:
+* Improves the developer productivity to auto update assignees :child:
 
 * Configurable action and helps to automate the workflow :hammer:
 
