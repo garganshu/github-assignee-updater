@@ -35,9 +35,6 @@ async function run() {
           assignees: assignees
         });
       }
-
-      console.log(issue.number)
-  
     }
 
   } catch (error) {
