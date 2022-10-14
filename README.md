@@ -14,6 +14,7 @@
 
 Updating assignees made easy in your workflow using Github Assignee Updater :white_check_mark:
 
+<a href="https://imgur.com/mZ5JaUN"><img src="https://i.imgur.com/mZ5JaUN.png" title="source: imgur.com" /></a>
 
 Why is this plugin in action? :gem:
 ----
