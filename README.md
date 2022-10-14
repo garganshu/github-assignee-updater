@@ -108,7 +108,7 @@ jobs:
 
 ```
 
-Projects using Github Label Updater? 🚀
+Projects using Github Assignee Updater? 🚀
 ----
 
 ### `Frontier` - Your Front Seat to Crypto and DeFi (<a href="https://frontier.xyz/" target="_blank">frontier.xyz</a>)
