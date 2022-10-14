@@ -1,18 +1,30 @@
 
 <a href="https://www.buymeacoffee.com/garganshu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 <a href="https://github.com/garganshu/github-assignee-updater/releases">![](https://img.shields.io/github/v/release/garganshu/github-assignee-updater)</a>
 [![](https://img.shields.io/badge/marketplace-github--assignee--updater-green?style=flat-square)](https://github.com/marketplace/actions/github-assignee-updater)
 
-[![GitHub stars](https://img.shields.io/github/stars/garganshu/github-assignee-updater)](https://github.com/garganshu/github-assignee-updater/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/garganshu/github-assignee-updater)](https://github.com/garganshu/github-assignee-updater/issues)
-[![GitHub license](https://img.shields.io/github/license/garganshu/github-assignee-updater)](https://github.com/garganshu/github-assignee-updater/blob/master/LICENSE)
-
 # Github Assignee Updater
 
-This action can filter issues based on labels and update assignees
+Updating assignees made easy in your workflow using Github Assignee Updater :white_check_mark:
 
-Demo
+
+Why is this plugin in action? :gem:
+----
+
+* Improves the developer productivity to auto update labels :label:
+
+* Configurable action and helps to automate the workflow :hammer:
+
+* Effective CI/CD pipelines :white_check_mark:
+
+How to use
 ----
 
 1. Re-assign Issues to User(s)
@@ -96,9 +108,8 @@ jobs:
 
 ```
 
-Contributions
--------------
+Projects using Github Label Updater? 🚀
+----
 
-Pull requests and contributions are most welcome.
+### `Frontier` - Your Front Seat to Crypto and DeFi (<a href="https://frontier.xyz/" target="_blank">frontier.xyz</a>)
 
-Please drop a star if you like it ❤️
