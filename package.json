@@ -10,9 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/garganshu/github-assignee-updater.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "GitHub",
+    "Actions",
+    "JavaScript",
+    "Issue",
+    "Label",
+    "Assignee"
+  ],
+  "author": "garganshu",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/garganshu/github-assignee-updater/issues"
   },
