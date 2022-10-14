@@ -1,0 +1,25 @@
+name: 'Github Assignee Updater'
+description: 'Update assignee in github issues'
+inputs:
+  owner: 
+    description: 'Organization or Owner name'
+    required: true
+  repo: 
+    description: 'Gitub Repository name'
+    required: true
+  token: 
+    description: 'Github access token'
+    required: true
+  filter-labels: 
+    description: 'Filter issues with labels'
+    required: false
+  clear-assignees: 
+    description: 'Remove all assignees from issues'
+    required: false
+    default: 'false'
+  update-assignees: 
+    description: 'Update old assignees with new ones'
+    required: false
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
